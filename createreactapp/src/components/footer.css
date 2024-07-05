@@ -1,0 +1,28 @@
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    top:30px;
+    
+}
+
+footer ul {
+    list-style-type: none;
+   
+}
+
+footer li {
+    list-style-type: none;
+}
+
+footer li a {
+    text-decoration: none;
+    color: white; 
+}
+
+
